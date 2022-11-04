@@ -1,0 +1,402 @@
+T1101
+Computing Mathematics 1  
+IT1110
+Communication Skills 1  
+IT1111
+Programming Essentials  
+IT1201
+Computing Mathematics 2  
+IT1204
+Data Structures and Algorithms  
+IT1205
+Operating Systems  
+IT1210
+Communication Skills 2  
+IT1213
+Data Communications & Networking  
+IT1324 
+Law & Ethics of IT  
+IT1325 
+Computing Mathematics  
+IT1331
+Object-Oriented Programming  
+IT1333
+Business Statistics  
+IT1214
+Digital Media Interaction Design  
+IT1218 
+Law & Ethics of IT  
+IT1321
+Programming Essentials  
+IT1323
+Psychology & Sociology  
+IT1534
+Cryptography & Applications  
+IT1535
+Communication Skills 2  
+IT1606
+Law & Ethics of IT  
+IT1507
+Web Applications Development  
+IT1521
+Computing Mathematics 1  
+IT1523
+Programming Essentials  
+IT1525
+Communication Skills 1  
+IT1528
+Cyber Security Technology, Law & Ethics  
+IT1531
+Computing Mathematics 2  
+IT1533
+Network Technology  
+IT1334
+Consumer Behaviour  
+IT1335 
+Communication Skills 1  
+IT1501
+Computing Mathematics 1  
+IT1506
+Data Structures & Programming Techniques  
+IT1753
+Principles of Computing  
+IT1761
+Computing Mathematics 2  
+IT1762
+Data Structures and Algorithms  
+IT1768
+Database Systems  
+IT1769
+Laws & Ethics of IT  
+IT1623
+Programming Essentials  
+IT1625
+Principles of Accounting  
+IT1631
+Computing Mathematics 2  
+IT1633
+Capital Markets and Financial Instruments  
+IT1634
+Economics  
+IT1635
+Communication Skills 1  
+IT1636
+Consumer Banking  
+IT1751
+Computing Mathematics 1  
+IT1608
+Networking Essentials  
+IT1621
+Computing Mathematics 1  
+IT1622
+Trends in Fintech & Services  
+IT2324
+Network Technology  
+IT2325
+Communication Skills 2  
+IT2331
+Industry Analysis  
+IT2333
+Advanced Database Systems  
+IT2116
+Software Engineering  
+IT2118
+InfoSecurity Technology  
+IT2127
+C# Application Development  
+IT2128
+C++ Application Development  
+IT2201
+Database Management Systems  
+IT2322
+Quantitative Methods  
+IT2323
+Database Management Systems  
+IT1770
+Communication Skills 1  
+IT1773 
+Infocomm Security Fundamentals  
+IT2106
+IP Technology and Networking  
+IT2107
+Mobile Usability Design  
+IT2537
+Cyber Forensic Technologies  
+IT2601
+Database Management Systems  
+IT2604
+Software Engineering Practices  
+IT2522
+Risk & Incident Management  
+IT2524
+Operating Systems  
+IT2525
+Data Structures and Algorithms  
+IT2533
+Servers & Services Security Management  
+IT2534
+InfoSecurity Standards, Policies and Audit  
+IT2535
+Software Engineering Practices  
+IT2334
+Software Engineering Practices  
+IT2335
+Predictive Modelling  
+IT2521
+Database Management Systems  
+IT2757
+Server & Services Security Management  
+IT2758 
+Operating Systems  
+IT2762
+Networking and Communications  
+IT2768
+IT Services and Management  
+IT2626
+Law, Governance & Ethics  
+IT2632
+Software Engineering Practices  
+IT2633
+Cyber Security for Financial Services  
+IT2634
+Risk Management  
+IT2635
+Investment and Financial Derivatives  
+IT2656
+Mobile Services and Applications  
+IT2755
+Software Engineering  
+IT2605
+Applications of Web Services  
+IT2621
+Database Management Systems  
+IT2624
+Financial Management  
+IT2625
+Communication Skills 2  
+IT3135
+Digital Marketing & Analytics  
+IT3322
+Data Privacy & Security  
+IT3331
+Final Year Project  
+IT3161
+Geospatial Visualisation  
+IT3178
+Cloud Computing  
+IT3180
+Emerging Trends and Technologies  
+IT3291
+Final Year Project  
+IT3351
+Analytics for Financial Services 
+IT3353
+Analytics for Retail & Hospitality 
+IT3355
+Social Media Analytics 
+IT3357
+Digital Marketing & Analytics 
+IT3322
+Data Privacy & Security 
+IT3331
+Final Year Project 
+IT3161
+Geospatial Visualisation 
+IT3178
+Cloud Computing 
+IT3180
+Emerging Trends and Technologies 
+IT3291
+Final Year Project 
+IT3542
+IT Project Management 
+IT3543
+Advanced Cyber Forensic Techniques 
+IT3545
+Disaster Recovery & Business Continuity Management 
+IT3525
+Cyber Forensic Process 
+IT3526
+Cyber Security Attack & Defense 
+IT3531
+Final Year Project 
+IT3541
+Digital Rights Management 
+IT3358
+Geospatial Analytics 
+IT3359
+Big Data Analytics 
+IT3506
+InfoSecurity Technology 
+IT3523
+InfoSecurity Governance 
+IT3631
+Final Year Project 
+IT3549
+Cyber Security Operations & Intelligence 
+IT3556
+Business Intelligence and Analytics 
+IT3557
+Cloud Computing for Business Applications 
+IT3621
+Emerging Fintech 
+IT3622
+Enterprise Solutions 
+IT3623
+Business Process Management 
+IT3546
+Cloud Computing Security 
+IT3547
+Malware Analysis 
+IT3548
+Mobile Security 
+IT3763/IT3766
+Overseas Internship Programme 
+IT3772
+Communication Skills 2 
+IT3647
+Cloud Computing for Business Applications 
+IT3651
+Service Science and Innovation 
+IT3691
+Final Year Project 
+IT3761
+Final Year Project 
+IT3642
+International Finance and Treasury 
+IT3643
+Personal Financial Planning and Insurance 
+IT3645
+Mobile Services and Applications 
+IT3794
+Operations Management 
+IT3795
+Database Administration 
+IT3797
+Open Systems Administration 
+IT3788
+Cyber Security Operations & Intelligence 
+IT3787
+Enterprise Systems Administration 
+IT3789
+Cyber Security Attack and Defence 
+IT3790
+Virtualisation & Data Centre Management 
+IT3792
+Logistics & Distribution 
+IT3793
+Advanced Planning & Optimisation 
+IT3779
+Smart Object Technologies 
+IT3783
+Mobile Applications Development 
+IT3786
+Data Analytics & Visualisation 
+IT3784
+Computer & Network Forensics 
+ITP172
+Networking Fundamentals & Project 
+ITP182
+Object-Oriented Programming & Project 
+ITP191
+Web Applications Development & Project 
+ITP112
+Object-Oriented Programming & Project 
+ITP131
+Principles of Web Usability Design & Project 
+ITP132
+Social Media Applications & Project 
+ITP161
+Web Applications Development & Project 
+ITP162
+Object-Oriented Programming & Project 
+ITP171
+IT Fundamentals & Project 
+IT3799
+IT Services Operations Management 
+IT3800
+Open Source Technologies Development 
+ITP111
+Web Applications Development & Project 
+ITP281
+e-Business & Project 
+ITP282
+Enterprise Applications Development & Project 
+ITP291
+Network Security & Project 
+ITP231
+Mobile Application Development & Project 
+ITP232
+Business Analytics & Visualisation Project 
+ITP261
+Enterprise Applications Development & Project 
+ITP262
+Business Analytics & Project 
+ITP271
+Web Application Development & Project 
+ITP272
+Sensor Technologies & Project 
+ITP192
+Object-Oriented Programming & Project 
+ITP211
+Object-Oriented Analysis, Design & Project 
+ITP212
+Java Enterprise Development & Project 
+ITP213
+Enterprise Applications Development & Project 
+ITP371
+Enterprise Software Development & Project 
+ITP372
+Enterprise Networking & Project 
+ITP312
+Smart Device Development & Project 
+ITP314
+Games Development & Project 
+ITP313
+Social Media Technologies & Project 
+ITP315
+Business Analytics & Visualisation Project 
+ITP331
+Enterprise Business Analytics Project 
+ITP361
+Fintech Innovation Project 
+ITP292
+Applications Security & Project 
+ITP311
+Application Security & Project 
+BM0034
+Business Statistics 
+BM0035
+Principles of Economics 
+BM0036
+Management Principles 
+ITP381
+Business Informatics Project 
+ITP391
+Operations Security & Case Study 
+BM0030
+Business Communication 1 
+BM0031
+Principles of Accounting 
+BM0032
+Essentials of Marketing 
+ITP373
+Global Supply Chain Management & Project 
+ITP374
+Systems & Network Security Project 
+BM0501
+Business Communication 2 
+BM0505
+Market Research 
+BM0515
+Entrepreneurship 
+BM0518
+Business Environment 
+BM0519
+Financial Management 
+BM0522
+International Business 
+BM0523
+Services Marketing Management 
+BM0528
+Teaching Enterprise Project (Practicum) 

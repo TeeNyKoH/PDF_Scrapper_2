@@ -1,0 +1,1229 @@
+
+307306
+IT3351
+Analytics for Financial Services [60 hours]
+This module introduces students to how analytics are used in the financial
+services to solve complex financial problems, drive profitability, seize new
+opportunities and manage risk. Topics include financial reporting and
+planning, profitability and cost analysis, financial crimes and fraud
+detection and prevention, financial product portfolio optimisation,
+financial forecasting, financial performance management and
+credit-risk management.
+IT3353
+Analytics for Retail & Hospitality [60 hours]
+This module introduces how analytics are used in the retail and hospitality
+industries to develop new insights into customers so as to understand
+business performance and drive decision-making. Topics include
+campaign management, customer experience analytics, performance
+management, product portfolio optimisation, event-driven marketing,
+profitability analysis and marketing mix analysis.
+IT3355
+Social Media Analytics [60 hours]
+This module provides students with the fundamental knowledge
+of the various concepts on how to measure, analyse and interpret
+social media data. Besides identifying goals and objectives within the
+context of specific business and marketing plans, students will learn
+the use of various social media tools and metrics to identify influential,
+recognise sentiments, extract conversations and present results.
+In additional, various data extraction, mining and visualisation
+techniques will be covered.
+IT3357
+Digital Marketing & Analytics [60 hours]
+This module examines the marketing concepts and analytics tools and
+techniques for an effective multichannel marketing in the digital age.
+Students will learn how data on customer behaviour on various channels
+can be used for business decision based on customer segment and
+predictive analytics for direct marketing, customer relationship and
+distribution channels selection. Students will also be exposed to the
+theory and strategy behind marketing analytics to measure the
+effectiveness of marketing campaigns.
+IT3293/IT3296
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3299/IT3298
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at a company exposes students
+to a real-life work environment and facilitates a structured and integrated
+learning programme for them. They will get to apply the knowledge
+and skills that they have acquired to work practice. The programme will
+also enable them to gain a broader perspective and knowledge of the
+industry, companies and careers in respective professions. The students
+will get to experience the realities of a work environment and the
+importance of work values and culture. They will also get to deepen
+their relevant skills for them to be well-placed to pursue a career
+in their chosen discipline.
+IT3322
+Data Privacy & Security [60 hours]
+This module introduces the fundamentals and the challenges of online
+privacy faced by the online community of today’s highly connected social
+media users. Underlying data security concepts such as data encryption,
+user authenticity, transaction nonrepudiation and other information
+security topics will be covered. Upon successful completion of this
+module, students will be able to understand the basic concepts of data
+privacy and security for online media applications, be exposed to theories
+such as data encryption, user authenticity, transaction non-repudiation
+and other information security topics, and appreciate ethical and legal
+issues faced by the online community in the social media space.
+IT3331
+Final Year Project [12 weeks]
+The Final Year Project module gives students practical experience in
+carrying out an independent software project, from requirements
+gathering, analysis and design, to the implementation, testing,
+delivery and presentation of the applications or solutions. Students will
+go through a software process with deliverables at different stages of the
+process. The module may require students to learn new technologies
+and advanced software tools that may not have been covered
+comprehensively in the course. This will help nurture the mindset
+of independent discovery and lifelong learning.
+IT3333/IT3336
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company
+exposes students to a real-life work environment and facilitates a
+structured and integrated learning programme for them. They will get
+to apply the knowledge and skills that they have acquired to work
+practice. The programme will also enable them to gain a broader
+perspective and knowledge of the industry, companies and careers in
+respective professions. The students will get to experience the realities
+of a work environment and the importance of work values and culture.
+They will also get to deepen their relevant skills for them to be
+well-placed to pursue a career in their chosen discipline.
+IT3339/IT3338
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at a company exposes students
+to a real-life work environment and facilitates a structured and integrated
+learning programme for them. They will get to apply the knowledge
+and skills that they have acquired to work practice. The programme will
+also enable them to gain a broader perspective and knowledge of the
+industry, companies and careers in respective professions. The students
+will get to experience the realities of a work environment and the
+importance of work values and culture. They will also get to deepen
+their relevant skills for them to be well-placed to pursue a career
+in their chosen discipline.
+IT3161
+Geospatial Visualisation [60 hours]
+This module equips students with the capability to build high-performing
+and engaging web applications that incorporates geographic information
+system (GIS) mapping, editing and geo-processing capabilities. It covers
+the use of ArcGIS API to incorporate basemaps, as well as working with
+queries to create GIS-enabled web applications. At the end of the course,
+students will be able to choose an application development environment
+that is suitable for a particular need as well as design an application for
+efficient querying and editing of GIS data.
+IT3178
+Cloud Computing [60 hours]
+This module covers cloud computing, a paradigm of dynamically scalable
+and often virtualised resources and services that are provided over the
+Internet. It introduces the concept and business case of cloud computing
+and compares it with previous computing models. It proceeds to explain
+cloud computing characteristics, components and architecture followed
+by different cloud computing models as well as cloud application
+development concepts. The module concludes with topics on cloud
+computing security and standards and governance.
+IT3180
+Emerging Trends and Technologies [30 hours]
+This module exposes students to the latest trends and technologies
+that are evolving in the IT industry. These include both hardware and
+software developments, which will be discussed in the form of workshops
+and/or seminars.
+IT3291
+Final Year Project [12 weeks]
+The Final Year Project module gives students the practical experience of
+carrying out an independent software project, from project requirements,
+implementation, testing to the delivery and presentation of the software.
+Students will go through a software process with deliverables at different
+stages of the process. The module requires them to learn new
+technologies and software tools that are not covered in the course.
+This will inculcate independent and lifelong learning.
+309308
+IT3542
+IT Project Management [60 hours]
+This module covers the successful management of IT projects with
+respect to people, process, technology and tools. Students will learn
+about project success factors, project lifecycle, project planning,
+project monitoring and project control. Configuration management,
+risk management and quality assurance will also be taught.
+IT3543
+Advanced Cyber Forensic Techniques [60 hours]
+This module introduces students to the latest technologies and tools
+used in the collection, collation and analysis of data derived from various
+digital devices and networks. With fast-changing technology landscape
+and challenges, forensic techniques have to evolve rapidly to ensure that
+the ability to investigate and discover evidence is not compromised.
+IT3545
+Disaster Recovery & Business Continuity Management [60 hours]
+This module provides comprehensive coverage on how an organisation
+can prepare for natural, pandemic or man-made disasters that
+would jeopardise its core mission and long-term business survival.
+A systematic methodology in scoping, planning, implementing, testing
+and maintenance of business continuity and disaster recovery process
+will be introduced with case studies and scenario practices. Students will
+also learn prevailing industrial practice and standards in this area.
+IT3525
+Cyber Forensic Process [60 hours]
+This module introduces students to processes involved in conducting
+effective cyber forensic practices. It covers processes involved in
+preliminary planning, equipment seizing, evidence collection, recording
+and safeguarding process, opening and developing a forensic case,
+forensic anomaly investigation process, reporting and presenting
+process in legal and civil cases. This module also includes Singapore
+law as well as legal practices and case studies of past court rulings and
+prosecutions through digital forensic evidence. The application of cyber
+forensic process for investigations into cyberattacks and espionage will
+be covered as well.
+IT3526
+Cyber Security Attack & Defense [60 hours]
+This module covers the concepts, tools and techniques used in both
+cyberattacks and defence. This includes techniques and tools used
+in foot-printing and social engineering, scanning and enumeration,
+system and network penetration, reverse engineering, planting Trojans,
+backdoors and hopping and escalating attack from the compromised
+systems. Students will proceed to learn the penetration testing process
+as well as the ethical and legal aspects.
+IT3531
+Final Year Project [12 weeks]
+The Final Year Project module gives students the practical experience of
+carrying out a software development project from project requirements,
+implementation and testing to the delivery and presentation of the
+software. Students will go through a software process with deliverables
+at different stages of the process. The projects often require students
+to learn and apply new technologies and software tools that are beyond
+the boundaries of the course curriculum. This will inculcate independent
+and lifelong learning. The engagement of industry projects provides an
+added dimension for students to think marketplace, appreciate windows
+of opportunity and see things from the eyes of the customers, while
+concurrently being subject to the real-life requirements of quality,
+cost-effectiveness and time-to-market. Students will also have the
+opportunity to put project management into good practice.
+IT3533/IT3536
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3539/IT3538
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3541
+Digital Rights Management [60 hours]
+This module covers the controlled use of digital media by preventing
+illegal access, illegal copying and conversion to other formats or
+tempering in an unauthorised manner. Technologies used to protect film,
+music, and documents such as content scramble system, cryptography,
+digital watermarking and steganography will be taught. Students will
+also learn about the shortcomings and issues of digital rights
+management and the legal aspect of it.
+IT3358
+Geospatial Analytics [60 hours]
+This module introduces the concepts of a geographic information system,
+the techniques of incorporating geoprocessing capabilities and the
+technologies that support the processes of acquiring, analysing and
+visualising spatial data. Students will be exposed to the various spatial
+data type, data model, map projections, spatial relationships and
+geo-processing tools. They will learn how to apply a systematic
+approach to finding patterns and relationships through geospatial
+analytics and geovisualisation techniques.
+IT3359
+Big Data Analytics [60 hours]
+This module introduces students to big data concepts and how a big data
+environment allows them to store, process, analyse and visualise massive
+and complex datasets. Students will learn predictive analytics and their
+application to practical data analytics problems via data-driven activities
+using big data technologies and tools. Students will also be exposed
+to big data trends and the ethical issues involved.
+IT3506
+InfoSecurity Technology [30 hours]
+This module covers the essential aspects of information security from
+personal and enterprise perspectives. It provides an understanding of
+information security trends, security threats, security incidents, security
+policies, procedures and guidelines.
+IT3523
+InfoSecurity Governance [30 hours]
+This module provides students with a good appreciation of IT
+governance concepts and regulatory compliance requirements
+of today’s enterprises. It covers how IT value delivery, risk management,
+performance measurement and strategic alignment of business and
+IT are linked to provide a strong IT governance structure. Prevailing
+corporate and individual ethics related to information security and
+privacy will be covered subsequently. Students will then learn an
+overview of information disclosure, info security related compliance
+requirements as well as regulatory requirements from the local and
+international perspectives.
+311310
+IT3631
+Final Year Project [12 weeks]
+The Final Year Project module gives students the practical experience of
+carrying out a software development project from project requirements,
+implementation and testing to the delivery and presentation of the
+software. Students will go through a software process with deliverables
+at different stages of the process. The projects often require students
+to learn and apply new technologies and software tools that are beyond
+the boundaries of the course curriculum. This will inculcate independent
+and lifelong learning. The engagement of industry projects provides an
+added dimension for students to think marketplace, appreciate windows
+of opportunity and see things from the eyes of the customers, while
+concurrently being subjected to the real-life requirements of quality,
+cost-effectiveness and time-to-market. Students will also have the
+opportunity to put project management into good practice.
+IT3633/IT3636
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3549
+Cyber Security Operations & Intelligence [60 hours]
+This module introduces the latest technologies and tools associated
+with the collection, collation, analysis and transformation of data into
+intelligence for use in cybersecurity risk mitigation efforts. Students will
+learn to integrate this intelligence into cybersecurity operations to
+enhance resiliency in IT operations within the organisation. The module
+will also expose students to the latest cybersecurity threat landscape and
+the current thoughts on cybersecurity trends by leaders in the field.
+IT3556
+Business Intelligence and Analytics [60 hours]
+Business intelligence is the technologies, applications and practices
+for the collection, integration, analysis, and presentation of business
+information. This module introduces concepts and technologies such as
+Extract, Transform and Load, Data Warehouse, OLAP, Data Mining and
+Web Mining that are related to business intelligence. Students will be
+exposed to the use of business intelligence software tools to acquire,
+cleanse, enhance and transform data into useful information for analysis
+and better business decision-making.
+IT3557
+Cloud Computing for Business Applications [60 hours]
+This module covers cloud computing, a paradigm of dynamically scalable
+and often virtualised resources and services which are provided over the
+Internet. It introduces the concept and business case of cloud computing
+and compares it with previous computing models. It proceeds to explain
+cloud computing characteristics, components and architecture followed
+by different cloud computing models as well as cloud application
+development concepts. It also covers how cloud computing can be
+used for business applications. The module concludes with topics on
+cloud computing security and standards and governance.
+IT3621
+Emerging Fintech [30 hours]
+This module examines the underlying technologies that are transforming
+finance services. Topics include blockchain technology, distributed
+ledger technology, mobile payment, cybersecurity, biometrics and
+authentication, financial cloud and infrastructure, big data and
+machine learning.
+IT3622
+Enterprise Solutions [60 hours]
+In this module, students will be exposed to enterprise concepts and key
+financial activities like accounting, financial analytics, financial supply
+chain, and corporate governance. Students will have hands-on experience
+in using enterprise software to implement financial management
+solutions to deliver integrated business processes in the areas of
+finance, accounting, financial reporting and performance management.
+IT3623
+Business Process Management [60 hours]
+This module presents concepts and techniques to design and model
+business processes as well as methodologies required to execute
+a methodical approach to translate business change requirements into
+IT solutions. Students will be equipped with useful software tools for the
+modelling of business processes to perform simulation, analysis and
+optimisation to achieve business objectives.
+IT3546
+Cloud Computing Security [60 hours]
+This module allows students to learn cloud computing technologies
+and related security best practices. It introduces cloud computing
+fundamentals with case studies on existing technologies and services
+offered by Amazon EC2, Google App Engine and Microsoft Windows
+Azure with their business models. Subsequently, cloud computing
+service models including Infrastructure as a Service (IaaS), Platform
+as a Service (PaaS), and Software as a Service (SaaS) will be introduced
+together with their potential security issues and best practices. Students
+will proceed to learn advanced web and network security in a high
+availability hosting environment. Access control, data replication and
+backup for data security, privacy and availability as well as data leakage
+prevention in cloud computing environment will be introduced next.
+The module concludes with best practices in controls and audit and
+outsourcing as well as the importance of regulatory compliances.
+IT3547
+Malware Analysis [60 hours]
+This module provides students with a sound foundation in the processes
+and techniques involved in performing malware analysis. It starts by
+introducing the different types of malware and their techniques of
+propagation and spreading. Students will proceed to learn malware
+identification and isolation, unpack binary malware code with basic
+reverse engineering techniques, study impact analysis and produce
+vaccine to neutralise its infection and harmful activities. Various security
+software tools will be used to reinforce the concepts taught. Students will
+also learn basic reverse engineering techniques.
+IT3548
+Mobile Security [60 hours]
+This module introduces the framework of prevalent mobile operating
+systems. Security models are also discussed to provide a good foundation
+in secured mobile applications development. Students will learn best
+practices in implementing secured mobile application solutions for
+enterprises and lifestyle uses for selected device platforms. Secured
+configurations and user provisioning will also be covered. The module
+ends with discussions on the latest development and future trends
+in the mobile security technology space.
+313312
+IT3763/IT3766
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured and
+integrated learning programme for them. They will get to apply the
+knowledge and skills that they have acquired to work practice. The
+programme will also enable them to gain a broader perspective and
+knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3769/IT3768
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at a company exposes students
+to a real-life work environment and facilitates a structured and integrated
+learning programme for them. They will get to apply the knowledge
+and skills that they have acquired to work practice. The programme will
+also enable them to gain a broader perspective and knowledge of the
+industry, companies and careers in respective professions. The students
+will get to experience the realities of a work environment and the
+importance of work values and culture. They will also get to deepen
+their relevant skills for them to be well-placed to pursue a career
+in their chosen discipline.
+IT3772
+Communication Skills 2 [30 hours]
+This module develops critical communication and interactive skills needed
+by students to prepare them for entry into the job market as working
+professionals. It focuses on interpersonal skills and various types of
+business communication needed at the work place. Topics include
+business correspondence, writing resumes, interviewing skills, conflict
+management and negotiation skills.
+IT3647
+Cloud Computing for Business Applications [60 hours]
+This module provides students with an understanding of the key elements
+of cloud computing and how common business applications and data
+can be accessed online from a web service or the browser. Students will
+learn the business model of cloud, cloud architecture and layers, cloud
+deployment model, cloud computing security and related issues, as
+well as case studies of successful business applications in the cloud.
+Students will acquire hands-on experience in analysis, design,
+development and implementation of business applications in the
+cloud using appropriate tools.
+IT3651
+Service Science and Innovation [60 hours]
+This module introduces service science to students. It covers service
+concepts, service systems, service design and the idea of service
+classifications. Students will learn about the important role of Information
+Technology in services management and information services, as well as
+the dimensions and routes for service innovations.
+IT3691
+Final Year Project [12 weeks]
+The Final Year Project module gives students the practical experience of
+carrying out a software development project from project requirements,
+implementation and testing to the delivery and presentation of the
+software. Students will go through a software process with deliverables
+at different stages of the process. The projects often require students
+to learn and apply new technologies and software tools that are beyond
+the boundaries of the course curriculum. This will inculcate independent
+and lifelong learning. The engagement of industry projects provides an
+added dimension for students to think marketplace, appreciate windows
+of opportunity and see things from the eyes of the customers, while
+concurrently being subject to the real-life requirements of quality,
+cost-effectiveness and time-to-market. Students will also have the
+opportunity to put project management into good practice.
+IT3693/IT3696
+Overseas Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured and
+integrated learning programme for them. They will get to apply the
+knowledge and skills that they have acquired to work practice. The
+programme will also enable them to gain a broader perspective and
+knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3698/IT3699
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3761
+Final Year Project [12 weeks]
+The Final Year Project module gives students the practical experience
+of carrying out an independent software development project from
+project requirements, implementation, testing to the delivery and
+presentation of the software. Students will go through a software
+process with deliverables at different stages of the process. This module
+requires students to learn and apply new technologies and software tools
+that are not covered in the course curriculum. This will inculcate
+independent and lifelong learning.
+IT3639/IT3638
+Internship Programme [12/24 weeks]
+The 12/24-week internship programme at an overseas company exposes
+students to a real-life work environment and facilitates a structured
+and integrated learning programme for them. They will get to apply
+the knowledge and skills that they have acquired to work practice.
+The programme will also enable them to gain a broader perspective
+and knowledge of the industry, companies and careers in respective
+professions. The students will get to experience the realities of a work
+environment and the importance of work values and culture. They will
+also get to deepen their relevant skills for them to be well-placed to
+pursue a career in their chosen discipline.
+IT3642
+International Finance and Treasury [60 hours]
+This module provides an overview of international financial markets
+with focus on international financial methods, investments and risk
+management tools. Topics include trade financing methods, money
+market instruments, financing arrangements in the international capital
+markets, swaps, futures and foreign exchange.
+IT3643
+Personal Financial Planning and Insurance [60 hours]
+This module provides an understanding of the process of financial
+planning and the needs analysis which assists an individual in attaining
+financial and lifestyle goals through the appropriate management of
+financial resources.
+IT3645
+Mobile Services and Applications [60 hours]
+This module familiarises students with the mobile computing world.
+This course exposes students to current trends in mobile services and
+applications and focuses on new trends and various applications available
+in the mobile services arena. It also introduces various concepts and ideas
+of in-trend applications running on mobile devices.
+315314
+IT3794
+Operations Management [60 hours]
+This module provides students with knowledge in the functional area
+of business that is concerned with the production of goods and services.
+In conjunction with other functional areas, it deals with the management
+of resources (inputs) and the distribution of finished goods and services
+to customers (outputs). Students will be introduced to key areas like
+operations strategy, designing the product and process, planning and
+scheduling resources and managing the supply chain.
+IT3795
+Database Administration [60 hours]
+This module provides students with practical skills and techniques
+required to administer Relational Databases commonly used in the
+industry. It equips students with knowledge and skills needed by
+database administrators to effectively perform database administration
+and management tasks. Students will learn to install, configure, create
+and control databases; administer user and security; and perform other
+administrative and management functions such as backup/restore,
+performance monitoring and tuning as well as troubleshooting.
+IT3797
+Open Systems Administration [60 hours]
+This module covers server administration and management using open
+source solutions. Students are able to differentiate various types of
+operating systems and configure network services across multiple server
+operating systems. Topics covered include network services, web services,
+DNS, DHCP, email server, network file sharing services, security policies
+and authentication services, securing networks, securing data and
+resolving service issues.
+IT3788
+Cyber Security Operations & Intelligence [60 hours]
+This module introduces to the students the latest technologies and
+tools associated with the collection, collation, analysis and transformation
+of data into intelligence for use in cybersecurity risk mitigation efforts.
+Students will learn how to integrate this intelligence into cybersecurity
+operations to enhance resiliency in IT operations within the organisation.
+The module will also expose students to the latest cybersecurity threat
+landscape and the current thoughts on cybersecurity trends by leaders
+in the field.
+IT3787
+Enterprise Systems Administration [60 hours]
+This module covers server administration and management in an
+enterprise environment. Students will be able to differentiate various
+types of operating systems and configure network services across
+multiple server operating systems. Topics covered include users and
+computer accounts, access to resources, organisational units, printing,
+group policy, performance monitoring, disk management, disaster
+recovery, network services, web services, Domain Name Services (DNS),
+Dynamic Host Configuration Protocol (DHCP), email server, network
+file-sharing services, security policies and authentication services.
+IT3789
+Cyber Security Attack and Defence [60 hours]
+This module covers the concepts, tools and techniques used in both
+cyberattacks and defence. This includes techniques and tools used
+in foot-printing and social engineering, scanning and enumeration,
+system and network penetration, reverse engineering, planting Trojans,
+backdoors and hopping and escalating attack from the compromised
+systems. Students will proceed to learn penetration testing process as
+well as the ethical and legal aspects.
+IT3790
+Virtualisation & Data Centre Management [60 hours]
+This module equips students with the knowledge, skills and techniques
+for the planning, installation and configuration of virtualised infrastructure
+using virtual machines, virtual storage and virtual networking in a next
+generation data centre. To support industry needs in various cloud
+computing and virtualisation environments, system management tools
+will be covered to equip students with the ability to manage, deploy, and
+update servers, client computers and devices across physical, virtual and
+distributed environments. The trends of virtualisation and its role in cloud
+computing will also be covered. The Green Data Centre methodologies,
+best practices and business continuity will also be introduced to students.
+IT3792
+Logistics & Distribution [60 hours]
+This module equips students with an understanding of warehousing,
+transportation and distribution, for the dynamic distribution and storage
+of raw materials, semi-finished parts and sub-assemblies, and finished
+goods. Topics include warehouse management system, transportation
+and distribution systems, and barcode and radio frequency identification
+(RFID) technologies, warehouse material handling equipment and
+systems, warehouse layout and design, warehouse operation
+optimisation, and the integration of warehouse and supply chain
+management systems. In addition, students will be exposed to the use
+of IT to facilitate and manage warehouse operations, transportation and
+distribution systems.
+IT3793
+Advanced Planning & Optimisation [60 hours]
+This module provides students with the key concepts involved in
+advanced planning and optimisation (APO) and how APO enables
+an organisation to maximise its resources to achieve higher customer
+satisfaction while minimising total cost of providing the service or
+producing the product. Topics include integrated demand planning,
+supply network planning, production planning and optimisation,
+order promising, manufacturing scheduling, collaborative planning,
+and supply chain intelligence capabilities.
+IT3779
+Smart Object Technologies [60 hours]
+This module equips students with knowledge of developing solutions
+to solve real-life problems by exploiting the latest technologies in smart
+objects or devices such as wireless sensor networks, ambient devices
+and RFID tagged objects connected over the Internet. Students will
+first be taught to develop and deploy applications on smart objects.
+Supervisory control and data acquisition technologies will also be
+covered. Topics like Data Analytics will be included to allow students
+to perform data analysis on raw data.
+IT3783
+Mobile Applications Development [60 hours]
+This module focuses on giving students a good understanding of the
+mobile communication architecture, protocol, gateway, security, integration
+and implementation. Windows mobile development, WAP, WML, SMS and
+Bluetooth or similar technologies will be covered. Students will be taught
+to create mobile-based applications and information services using
+state-of-the-art wireless technologies. In addition, students will also be
+exposed to software development tools and methods for portable mobile
+devices to deliver complete portable mobile solutions.
+IT3786
+Data Analytics & Visualisation [60 hours]
+This module provides a basic foundation for students in data analytics
+and tools. Students will learn how to manage and pre-process data,
+perform data analytics and develop analytic models for the visual
+representation of data as well as various visualisation techniques for
+effective communication of information through graphical means.
+IT3784
+Computer & Network Forensics [60 hours]
+This module equips students with skills and knowledge in cyberattack
+planning, prevention, detection, response, and investigation with
+the goals of counteracting cybercrimes, and making the responsible
+persons/groups accountable. The topics covered in this course include
+fundamentals of digital forensics, forensic data acquisition and analysis,
+network surveillance, intrusion detection and response, incident response,
+anti-forensics techniques, anonymity and pseudonymity.
+317316
+ITP172
+Networking Fundamentals & Project [120 hours]
+This module incorporates a new approach to teaching networking
+fundamentals while incorporating critical business and financial skills
+to equip students for entrepreneurship opportunities in networking
+business scenarios. Networking topics taught include network
+terminology and protocols, local area networks, wide area networks,
+Open System Interconnection (OSI), various types of transmission media,
+Internetworking devices, Ethernet technologies and switching, TCP/IP
+protocol suites and Internet protocol addressing and packet analysis
+and network standards. Basic business and financial concepts are also
+taught through hands-on exercises and realistic scenarios. Students will
+undertake a project to develop an innovative networking business
+proposal that requires them to apply their networking, business and
+financial skills acquired.
+ITP182
+Object-Oriented Programming & Project [120 hours]
+This module is designed to provide training in the concepts of
+object-oriented programming, including abstraction, encapsulation,
+inheritance and polymorphism. Students will learn to implement these
+concepts through hands-on practical sessions. They are expected to code
+and implement an object-oriented application with graphical user
+interfaces and connection to database.
+ITP191
+Web Applications Development & Project [120 hours]
+This module introduces the basic concepts of the Internet and hypertext,
+and how these concepts are integrated to provide powerful World Wide
+Web applications over the Internet. The focus is on learning the theory
+behind current web-based development tools and technologies including
+HTML, DHTML and JavaScript to develop interactive and rich media web
+pages. Students working in teams will approach the project using design
+thinking to innovate and implement interactive web applications.
+ITP112
+Object-Oriented Programming & Project [120 hours]
+This module teaches students the concepts of object-oriented
+programming, including abstraction, encapsulation, inheritance and
+polymorphism. Students will learn how to implement these concepts in
+Java through hands-on practical. Java Swing and Java applets will be
+taught to demonstrate how object-orientation is inherent in the language
+itself. Students will work in teams to develop, test and implement
+innovative and useful applications in the Java development platform.
+ITP131
+Principles of Web Usability Design & Project [120 hours]
+This module covers the general subjects of colour, design elements,
+design principles, design structure and interactivity interface of websites.
+It also covers the basic concepts of the Internet, Internet architecture,
+Internet services, Internet scripting language and rich media technologies
+for creating interactive web applications. It will equip students with
+skills to formulate and implement a website strategy, which will raise its
+productivity well above the norm. SEO tools, techniques and analysis
+will also be introduced. Students will use the web development tools
+to develop innovative and optimised web solutions for business
+applications and social connections.
+ITP132
+Social Media Applications & Project [120 hours]
+This module covers the history and evolution of Social Media, from
+the era of Usenet systems to present day. It provides students with an
+understanding of social media technologies and applications in the areas
+of communication, collaboration, multimedia, entertainment and brand
+monitoring. Students will be equipped with the concepts and techniques
+of developing social applications on top of popular social networking
+platforms. Students, working in teams, will collaborate to deliver
+innovative social media and digital marketing solutions to fulfil new
+business needs. The concept and importance of using analytics to
+measure engagement, analyse conversation, identify influence mapping
+and spot market trend will also be introduced to the students.
+ITP161
+Web Applications Development & Project [120 hours]
+This module introduces the basic concepts of the internet and hypertext,
+and how these concepts are integrated to provide powerful World Wide
+Web applications over the Internet. The focus is on learning the theory
+behind current web-based development tools and technologies including
+HTML, DHTML, and JavaScript to develop interactive and rich media web
+pages. Students, working in teams, will approach the project using design
+thinking to innovate and implement interactive web applications.
+ITP162
+Object-Oriented Programming & Project [120 hours]
+This module teaches students the concepts of object-oriented
+programming, including abstraction, encapsulation, inheritance and
+polymorphism. Students will learn to implement these concepts in Java
+through hands-on practical. Java Swing and Java applets will be taught
+to demonstrate how object-orientation is inherent in the language itself.
+Students will work in teams to develop, test and implement innovative
+and useful applications in the Java development platform.
+ITP171
+IT Fundamentals & Project [120 hours]
+This module equips students with a broad understanding of the enabling
+information and communication technologies powering the infrastructure
+in today’s connected world. Students will learn about the organisation
+and functionalities of hardware components working together with IT
+software and tools in a typical computer system. The module will also
+cover computer security, networks and communications, servers and
+storage as well as software application tools for creating media rich web
+sites. Students will undertake a project to explore ideas in applying their
+IT knowledge and skills, to implement innovative web applications for
+engineering and business.
+IT3799
+IT Services Operations Management [60 hours]
+This module covers service transition processes and activities throughout
+the service development and deployment lifecycle. It will equip students
+with the necessary technical knowledge and skills to control the quality of
+delivery to operations. It extends the management areas into service
+asset and configuration management, build and test with release and
+deployment management. By utilising organisational models to support
+transition, and with guidance on how to reduce variation of delivery,
+agreed service levels are achieved. This module will also cover service
+operations in ensuring there are robust end-to-end practices, which
+support responsive and stable services.
+IT3800
+Open Source Technologies Development [60 hours]
+This module equips students with knowledge in developing solutions
+for businesses using open source and Web 2.0 technologies. Students will
+be taught to install, configure LAMP (Linux, Apache, MySQL, PHP), and
+develop engaging applications using tools and libraries such as JQuery,
+Dojo and Google App Engine. Issues related to costs and licensing will
+also be covered.
+ITP111
+Web Applications Development & Project [120 hours]
+This module introduces the basic concepts of the Internet and hypertext,
+and how these concepts are integrated to provide powerful World Wide
+Web applications over the Internet. The focus is on learning the theory
+behind current web-based development tools and technologies including
+HTML, DHTML, and JavaScript, to develop interactive and rich media web
+pages. Students, working in teams, will approach the project using design
+thinking to innovate and implement interactive web applications.
+319318
+ITP281
+e-Business & Project [120 hours]
+This module introduces students to the concept of e-commerce as well
+as software development for e-business application. It identifies
+the challenges and benefits of setting up electronic commerce.
+It involves team collaboration, implementing client-side and
+server-side technologies, security, integration, testing, deployment
+and maintenance. The student will then learn how to develop a usable
+e-business applications and by using the latest .Net development tools
+and technologies.
+ITP282
+Enterprise Applications Development & Project [120 hours]
+This module introduces students to large-scale applications development
+for the business enterprises. It covers issues of enterprise application
+development, including team collaboration, enterprise component
+development, security, integration, testing, deployment and maintenance.
+Students will learn how to develop enterprise applications and use the
+latest enterprise development tools.
+ITP291
+Network Security & Project [120 hours]
+This module provides students with a sound understanding of the
+technologies and tools used in architecting and implementing effective
+wired and wireless network security solutions. It covers TCP/IP based
+secure network protocols, firewall, virtual private network, intrusion
+prevention and detection and network admission control (NAC) systems.
+Students proceed to learn wireless security imperatives, standards,
+implementations, issues and countermeasures. Students will then be
+provided with the practical experience of applying their knowledge
+in the development of a project, using skills learnt from other modules,
+including network security and risk and incident management. Students
+working in teams will make use of risk management methodology and
+tools as well as network security monitoring and assessment tools to
+develop, test and implement info security solutions for given scenarios.
+ITP231
+Mobile Application Development & Project [120 hours]
+This module introduces students to different genres of mobile
+devices and focuses on giving them a good understanding of mobile
+communication architecture, protocol, gateway, security, integration and
+implementation. Students will be equipped with concepts and techniques
+to develop innovative mobile applications such as location-aware services
+and geo-spatial apps. These mobile applications can be used to harness
+data from end-users as well as access processed analytics information.
+The concept of mobile analytics will also be introduced to students.
+ITP232
+Business Analytics & Visualisation Project [120 hours]
+This module covers the theories of visual representation of data as
+well as the various visualisation techniques for effective communication
+of information through graphical means. Topics include information
+presentation, information graphics, thematic map, statistic graphics,
+information representation, graphic design, visualisation algorithms,
+modelling and simulations, visual representation and interaction
+techniques. It will also expose students to some real-life implementation
+of business analytics approaches by using various visualisation methods
+and analytics tools. Students will embark on a development project
+that combines their computing skills and the fundamental concepts
+learnt with available tools and metrics into an application or dashboard
+for measuring, analysing and interpreting data within the context of
+specific business goals and objectives.
+ITP261
+Enterprise Applications Development & Project [120 hours]
+This module introduces students to large-scale applications development
+for business enterprises. It covers issues of enterprise application
+development, including team collaboration, enterprise component
+development, security, integration, testing, deployment and maintenance.
+Students will learn to develop enterprise applications and use the latest
+enterprise development tools. Through this project, students will acquire
+hands-on experience in building business-to-business and enterprise
+applications integration systems to fulfil business needs. Students will
+work in teams and put project management into practice.
+ITP262
+Business Analytics & Project [120 hours]
+This module introduces the concepts and technologies, such as Extract,
+Transform and Load, Data Warehouse, OLAP, Data Mining and Web
+Mining related to business intelligence. Students will be exposed to the
+use of business intelligence software tools to acquire, cleanse, enhance,
+and transform data into useful information for analysis and better
+business decision-making. In the project, students will work in teams
+and be exposed to the use of rules-based management tools to
+experience and deliver business agility, as well as the use of business
+intelligence software tools to extract, cleanse, enhance, and transform
+data into useful information for analysis and decision-making.
+ITP271
+Web Application Development & Project [120 hours]
+This module provides students with knowledge and skills to develop
+web applications using the latest web technologies. Web application
+architecture and various issues related to web applications development
+will be covered. Students will learn to create dynamic and interactive
+web pages using server-side programming to create web forms and web
+server controls, perform state management, secure and debug web
+applications, and manipulate data using database access techniques.
+Students will undertake a project to apply Internet technologies and web
+skills to create interactive websites using rich digital web media and
+interactive scripts for engineering and business applications.
+ITP272
+Sensor Technologies & Project [120 hours]
+This module provides students with a broad coverage of sensor
+technologies, their applications as well as the basic analog and digital
+support circuitry required for interfacing to these sensors. Students also
+learn to select various types of sensors and program these intelligent
+smart objects to collect and process data. Students will undertake
+a project to explore innovative skills in applying their IT, sensor and
+hardware interfacing knowledge to create applications used in a business
+and engineering environment, where data is acquired through sensors
+for monitoring, control and analysis.
+ITP192
+Object-Oriented Programming & Project [120 hours]
+This module teaches students the concepts of object-oriented
+programming, including abstraction, encapsulation, inheritance and
+polymorphism. Students will learn to implement these concepts in Java
+through hands-on practical sessions. Java Swing and Java applets will be
+taught to demonstrate how object-orientation is inherent in the language
+itself. Students will work in teams to develop, test and implement
+innovative and useful applications in the Java development platform.
+ITP211
+Object-Oriented Analysis, Design & Project [120 hours]
+This module introduces various object-oriented modelling techniques
+and system implementation issues. UML is used to facilitate the modelling
+of analysis and design that include sequence diagram and class diagram.
+Students will work in teams to apply their knowledge to develop the
+application, adopting the analysis and design techniques learnt.
+ITP212
+Java Enterprise Development & Project [120 hours]
+This module integrates the various skills of the students, from
+human computer interface, software engineering and Java enterprise
+application development, to deliver a compelling and well-engineered
+Java Enterprise Application.
+ITP213
+Enterprise Applications Development & Project [120 hours]
+This module integrates the various skills of the students, from database
+management, human computer interface, software engineering and .NET
+enterprise application development, to deliver a compelling and
+well-engineered multi-tier .NET Snterprise Application.
+321320
+ITP371
+Enterprise Software Development & Project [120 hours]
+This module provides in-depth coverage of technologies for building and
+deploying applications both within an enterprise and over the Internet.
+Students will be equipped with knowledge and skills in security models,
+databases, client-server applications, and web applications, distributed
+systems for an enterprise environment and web services. Students will
+undertake a project to explore innovative skills to design and implement
+enterprise applications to solve a particular problem in their area of focus
+using smart object technologies.
+ITP372
+Enterprise Networking & Project [120 hours]
+This module covers advanced network technology and network
+management issues in an enterprise environment. Students will be
+equipped with in-depth knowledge to differentiate the various types
+of network technology and use the correct tools and techniques
+to manage a network. Topics covered include Scaling IP Addresses,
+WAN Technologies, Point-to-Point Protocol, Integrated Digital Service
+Network, Dial-on Demand, Frame Relay and Network Management.
+Students will have hands-on sessions on LAN and WAN design and
+implementation issues in an enterprise environment and undertake
+a project to explore innovative skills to design and implement networks
+in an enterprise environment using smart object technologies.
+ITP312
+Smart Device Development & Project [120 hours]
+This practical-oriented course examines the principles of application
+design and development for smart devices. Using iOS as the
+development platform, this module teaches the fundamentals of
+native iOS programming which cover topics including UI architecture
+and navigation to advanced APIs such as location and mapping services
+as well as social media integration. Students will embark on a case study
+to apply the knowledge they acquired in the prescribed electives, to
+deliver innovative and creative applications on the iOS platform.
+ITP314
+Games Development & Project [120 hours]
+This module teaches the fundamentals of game engine architecture
+design and development. Students will be introduced to the components
+and concepts encountered when developing a game engine. These
+include the translation of game play requirements into technical
+requirements, graphics engines, animation, lighting and texturing effects,
+mixing and streaming of sound and music, game artificial intelligence,
+modelling of real world physics, user input devices and multiplayer game
+techniques. Students will embark on a case study to apply the knowledge
+they acquire to deliver innovative and creative games applications in the
+digital entertainment industry.
+ITP313
+Social Media Technologies & Project [120 hours]
+The module begins with the history and evolution of Social Media,
+from the era of Usenet systems to present day. It will provide students
+with an understanding of social media technologies and applications
+in the areas of communication, collaboration, multimedia, entertainment
+and brand monitoring. Students will be equipped with the concepts
+and techniques to develop social applications on top of popular social
+networking platforms. The module will be practical-oriented with
+extensive hands-on sessions using software, tools and case studies
+to reinforce students’ learning. Students will embark on a case study
+to apply the knowledge they acquired in the prescribed electives,
+to deliver innovative and creative social media applications.
+ITP315
+Business Analytics & Visualisation Project [120 hours]
+This module covers the theories of visual representation of data as well
+as the various visualisation techniques for effective communication
+of information through graphical means. Topics include information
+presentation, information graphics, thematic map, statistic graphics,
+information representation, graphic design, visualisation algorithms,
+modelling and simulations, visual representation and interaction
+techniques. This module exposes students to real-life implementation
+of business analytics approaches by using theories and techniques.
+ITP331
+Enterprise Business Analytics Project [120 hours]
+This module introduces students to the different types of analytics based
+on statistical and quantitative analysis and predictive modelling. Students
+will be exposed to implementing descriptive analytics, modelling and
+data-driven methodology based on business scenarios. It also covers the
+analysis of unstructured data in enterprise. Students, working in teams,
+will identify the case and use business analytics software tools to harness
+data collected from interconnected sources, develop models, validate
+models, deploy models and monitor results to uncover trends, predict
+future events and enable better decision making. Students will also use
+text analytics tool to enrich analytic insights with unstructured data,
+to understand options and predict outcomes.
+ITP361
+Fintech Innovation Project [120 hours]
+This module provides a platform for students to develop and apply
+their innovative and enterprising skills to create a financial technology
+venture that leverages on IT to transform the way financial institutions
+and businesses use financial services and products. Students will work
+in teams to identify, assess and develop new or improve an existing idea.
+They will also have the opportunity to perform prototype development,
+as well as technology evaluation. Students are also encouraged to apply
+their creative problem-solving skills in their entrepreneurial quest.
+ITP292
+Applications Security & Project [120 hours]
+This module provides students with a sound understanding of the
+methods, processes, tools and technologies in developing secured
+and security-enabled software applications. It begins with important
+techniques and concepts in developing secure applications throughout
+the software development lifecycle, from planning to deployment.
+Students will learn techniques and process in building software
+applications to meet confidentiality, integrity, availability needs
+as well as authentication, non-repudiation and authorisation
+requirements. Application security testing techniques and tools such
+as white box and black box security testing, and foundation of reverse
+engineering techniques will also be covered. Students will then be
+provided with the practical experience of applying their knowledge
+in the development of a project, using skills acquired from the other info
+security modules in developing secured and security-enabled software
+applications. Students will be able to employ the methods, processes,
+tools and technologies they have learnt to develop the projects in a
+simulated environment.
+ITP311
+Application Security & Project [120 hours]
+This module provides students with a sound understanding of the
+methods, processes, tools and technologies in developing secured
+and security-enabled software applications. It begins with important
+techniques and concepts in developing secure applications throughout
+the software development lifecycle. Students will learn techniques and
+processes in building software applications to meet confidentiality,
+integrity, availability needs as well as authentication, non-repudiation and
+authorisation requirements. Application security testing techniques and
+tools such as white box and black box security testing, and foundation
+of reverse engineering techniques will also be covered. Students will
+embark on a case study to apply the knowledge they acquired in the
+prescribed electives, to deliver innovative and creative information
+security applications.
+323322
+BM0034
+Business Statistics [60 hours]
+This module covers basic statistical concepts and applications, and
+includes topics such as permutation and combination, probability theory,
+probability distribution, estimation, hypothesis testing, least squares
+method, simple linear regression and correlation.
+BM0035
+Principles of Economics [60 hours]
+This module provides students with an understanding of the basic
+principles of economics and the framework of economic reasoning as
+applied in business. Topics covered include the principles of demand and
+supply, theory of the firm, production costs, profit maximisation, market
+structures, inflation and unemployment, monetary and fiscal policies and
+foreign exchange.
+BM0036
+Management Principles [60 hours]
+This module provides an overview of the principles of management
+and an understanding of organisation behaviours. Students will learn
+to manage life at work through the understanding of people’s behaviour
+in organisations. Topics include learning and personality, perception,
+motivation, attitudes and values, leadership, communication and
+decision-making.
+ITP381
+Business Informatics Project [120 hours]
+This module provides a platform for students to develop and apply their
+innovative and enterprising skills to create a business informatics venture
+that leverages IT to transform the way start-ups and corporates use
+business services and products. Students will work in teams to identify,
+assess and develop new or improve an existing idea. They will also have
+the opportunity to perform prototype development as well as technology
+evaluation. Students are also encouraged to apply their creative
+problem-solving skills in their entrepreneurial quest.
+ITP391
+Operations Security & Case Study [120 hours]
+This module covers the protection and controls of information processing
+assets in an enterprise IT environment. It starts with operations
+management practices, such as user management, access control,
+patch management, malware defence and management, configurations
+and change management, backup and recovery process, personnel
+management best practices, etc. Physical security topics complement
+the protection of the tangible aspect of information systems.
+Practical aspects of single sign on, identity management, multi-factor
+authentication and access audit will be included. This module also
+includes common practices in contractor/product selection and
+management, outsourcing security services, managed security and
+continuous security monitoring. The knowledge learnt will be used
+to identify potential projects and case studies, and implemented
+as a project to demonstrate the practical aspects of cyber security.
+BUSINESS MODULES
+BM0030
+Business Communication 1 [60 hours]
+This module provides students with a basic foundation in communication
+skills. It equips them with the foundation skills in writing, speaking and
+reading in preparation for higher order communication tasks in a business
+context. The topics covered will include elements of the communication
+process and the essentials of listening, speaking, writing and reading.
+BM0031
+Principles of Accounting [60 hours]
+This module provides students with an understanding of the basic
+concepts and principles of accounting, covering service and
+merchandising enterprises in the forms of sole proprietorships and
+companies. Topics covered include fundamental accounting principles,
+accounting for assets and liabilities, and measurement of profits.
+Students will also learn to interpret financial statements through the
+use of financial ratios. Students will be taught the use of a computerised
+accounting system or software.
+BM0032
+Essentials of Marketing [60 hours]
+This module provides an overview of the fundamentals of marketing
+and marketing mix. It includes marketing management concepts and
+differences between consumer and business markets, and the integration
+of product, price, place and promotion in producing an effective
+marketing plan.
+ITP373
+Global Supply Chain Management & Project [120 hours]
+This module provides students with the fundamental knowledge in and
+the key concepts of supply chain management (SCM) and how SCM is
+enabled through IT to become an integral part of strategy and operations
+management in the logistics, retail, services and manufacturing industries.
+The focus will be on global supply chain strategies for the integration of
+supply chain components into a coordinated system to enhance service
+level and reduce system-wide costs. The module also provides examples
+of tools and off-the-shelf software packages that have been proven to be
+effective in understanding key concepts in supply chain management.
+Topics covered include SCM basics, information technology in a supply
+chain, customer relationship management and demand planning,
+operations planning and management, supplier management and supply
+planning, demand fulfilment and logistics. Advanced supply chain analysis
+and modelling as well as future trends and issues in the context of a
+global and integrated supply chain will be explored. Students will
+undertake a project to explore innovative skills to design and implement
+an application with supply chain focus using smart object technologies.
+ITP374
+Systems & Network Security Project [120 hours]
+This module aims to provide students with a sound understanding
+of the core security concepts and skills needed for installation,
+troubleshooting and monitoring of secured server systems, network
+services and devices to maintain the integrity, confidentiality and
+availability of data and services. It covers the in-depth theoretical and
+practical understanding of network security principles as well as the
+tools and configurations available to design, implement and support system
+and network security. Topics include AAA, advanced firewall technologies,
+Intrusion Prevention System, LAN security, virtual private network and
+remote access services, DDOS detection and mitigation, system and
+security policy, web security and other emerging topics. Students will also
+undertake a project using the knowledge and skills acquired.
+325324
+BM0501
+Business Communication 2 [60 hours]
+This module builds on the basic communication skills acquired and equips
+students with more specific communication skills that are required in a
+business context. Topics include higher order writing skills, questioning
+techniques, academic and technical report writing and oral presentation
+skills. Taught through small group tutorial sessions, the focus will be on
+addressing common errors, correcting ineffective writing styles, and
+enhancing students’ English language proficiency through writing
+practises and use of workbooks.
+BM0505
+Market Research [60 hours]
+This module provides students with an understanding of market
+research techniques, use of research data and information in business
+decision-making. Topics include research design, data collection and
+analysis. Students will also learn to interpret and analyse information and
+marketing research data collected to achieve competitive advantage.
+BM0515
+Entrepreneurship [60 hours]
+This module inculcates an entrepreneurial spirit and mindset in students,
+and provides them a platform to develop and exercise their innovation
+and creativity in a practice-based environment. Through entrepreneurship
+studies, students will learn to identify, assess and develop new or improve
+on existing business ideas, and to plan, implement and manage these
+business ventures and enterprises effectively and profitably. At the end
+of the module, students will be able to develop a total business plan
+encompassing feasibility studies, environmental research and analysis,
+as well as marketing, operations and financial strategies. Students will
+also experience and understand the challenges and recovery issues
+faced by a typical entrepreneur through research, case studies and
+sharing sessions.
+BM0518
+Business Environment [30 hours]
+This module provides students with an understanding of various regional
+and international environmental factors and the dynamic nature of these
+factors, namely political, social, economic, technological and competition,
+which may affect business operations/decisions. Case studies or scenario
+approaches will be used. The essential aspects of the legal system and
+issues, such as contract, intellectual property rights protection and
+infringement, will be covered at an awareness level. Students will also
+gain hands-on experience in searching and processing information from
+media, online retrieval resource systems, and other sources for analysing
+and making business decisions.
+BM0519
+Financial Management [60 hours]
+This module provides a basic understanding of the principles and
+concepts used in managing the finances of a business. Topics include
+budgeting and forecasting, working capital management and decision,
+time value of money, capital investment decisions, equity and debt
+financing. At the end of the module, students will understand the various
+sources of financing available to a business and how to evaluate the
+appropriateness of an investment.
+BM0522
+International Business [60 hours]
+This module provides a basic understanding of the globalisation
+of business and borderless trade. Topics include the global economy,
+trade liberalisation and protectionism, international financing from
+a legal perspective, foreign market entry modes and the new distribution
+channels that e-commerce opens up for companies that venture into
+foreign countries.
+BM0523
+Services Marketing Management [60 hours]
+This module focuses on problems and strategies specific to the marketing
+of services. Problem commonly encountered in marketing services, such
+as difficulties in controlling quality, managing service failure and recovery
+situations, will be addressed. Case studies and practical examples used
+by successful service marketers to overcome these difficulties will be
+discussed extensively. In addition, the delivery is driven primarily through
+role plays as well as discussions of best practices to ensure currency and
+relevance for students.
+BM0528
+Teaching Enterprise Project (Practicum) [12 weeks]
+The Teaching Enterprise Project (TEP) is a module where students
+are trained using a practice-based and application-oriented approach.
+Students are assigned to relevant live and real business centres to
+attain on-the-job practical work experience and lifelong skills under
+the supervision of staff. These business centres emulate the industry
+environment, thus providing learning experiences that are as close as
+possible to the real world. The attachment is over a period of
+12 weeks and covers two training locations. At end of each attachment,
+students are required to submit a report describing their duties and
+learning outcomes.

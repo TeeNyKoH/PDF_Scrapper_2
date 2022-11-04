@@ -1,0 +1,232 @@
+
+307306
+307306
+IT3351
+IT3351
+Analytics for Financial Services [60 hours]
+IT3353
+Analytics for Retail & Hospitality [60 hours]
+IT3355
+Social Media Analytics [60 hours]
+IT3357
+Digital Marketing & Analytics [60 hours]
+IT3322
+Data Privacy & Security [60 hours]
+IT3331
+Final Year Project [12 weeks]
+IT3161
+Geospatial Visualisation [60 hours]
+IT3178
+Cloud Computing [60 hours]
+IT3180
+Emerging Trends and Technologies [30 hours]
+IT3291
+Final Year Project [12 weeks]
+309308
+IT3542
+IT3542
+IT Project Management [60 hours]
+IT3543
+Advanced Cyber Forensic Techniques [60 hours]
+IT3545
+Disaster Recovery & Business Continuity Management [60 hours]
+IT3525
+Cyber Forensic Process [60 hours]
+IT3526
+Cyber Security Attack & Defense [60 hours]
+IT3531
+Final Year Project [12 weeks]
+IT3541
+Digital Rights Management [60 hours]
+IT3358
+Geospatial Analytics [60 hours]
+IT3359
+Big Data Analytics [60 hours]
+IT3506
+InfoSecurity Technology [30 hours]
+IT3523
+InfoSecurity Governance [30 hours]
+311310
+IT3631
+IT3631
+Final Year Project [12 weeks]
+IT3549
+Cyber Security Operations & Intelligence [60 hours]
+IT3556
+Business Intelligence and Analytics [60 hours]
+IT3557
+Cloud Computing for Business Applications [60 hours]
+IT3621
+Emerging Fintech [30 hours]
+IT3622
+Enterprise Solutions [60 hours]
+IT3623
+Business Process Management [60 hours]
+IT3546
+Cloud Computing Security [60 hours]
+IT3547
+Malware Analysis [60 hours]
+IT3548
+Mobile Security [60 hours]
+313312
+IT3763/IT3766
+IT3772
+Communication Skills 2 [30 hours]
+IT3647
+Cloud Computing for Business Applications [60 hours]
+IT3651
+Service Science and Innovation [60 hours]
+IT3691
+Final Year Project [12 weeks]
+IT3761
+Final Year Project [12 weeks]
+IT3642
+International Finance and Treasury [60 hours]
+IT3643
+Personal Financial Planning and Insurance [60 hours]
+IT3645
+Mobile Services and Applications [60 hours]
+315314
+IT3794
+IT3794
+Operations Management [60 hours]
+IT3795
+Database Administration [60 hours]
+IT3797
+Open Systems Administration [60 hours]
+IT3788
+Cyber Security Operations & Intelligence [60 hours]
+IT3787
+Enterprise Systems Administration [60 hours]
+IT3789
+Cyber Security Attack and Defence [60 hours]
+IT3790
+Virtualisation & Data Centre Management [60 hours]
+IT3792
+Logistics & Distribution [60 hours]
+IT3793
+Advanced Planning & Optimisation [60 hours]
+IT3779
+Smart Object Technologies [60 hours]
+IT3783
+Mobile Applications Development [60 hours]
+IT3786
+Data Analytics & Visualisation [60 hours]
+IT3784
+Computer & Network Forensics [60 hours]
+317316
+ITP172
+ITP172
+Networking Fundamentals & Project [120 hours]
+ITP182
+Object-Oriented Programming & Project [120 hours]
+ITP191
+Web Applications Development & Project [120 hours]
+ITP112
+Object-Oriented Programming & Project [120 hours]
+ITP131
+Principles of Web Usability Design & Project [120 hours]
+ITP132
+Social Media Applications & Project [120 hours]
+ITP161
+Web Applications Development & Project [120 hours]
+ITP162
+Object-Oriented Programming & Project [120 hours]
+ITP171
+IT Fundamentals & Project [120 hours]
+IT3799
+IT Services Operations Management [60 hours]
+IT3800
+Open Source Technologies Development [60 hours]
+ITP111
+Web Applications Development & Project [120 hours]
+319318
+ITP281
+ITP281
+e-Business & Project [120 hours]
+ITP282
+Enterprise Applications Development & Project [120 hours]
+ITP291
+Network Security & Project [120 hours]
+ITP231
+Mobile Application Development & Project [120 hours]
+ITP232
+Business Analytics & Visualisation Project [120 hours]
+ITP261
+Enterprise Applications Development & Project [120 hours]
+ITP262
+Business Analytics & Project [120 hours]
+ITP271
+Web Application Development & Project [120 hours]
+ITP272
+Sensor Technologies & Project [120 hours]
+ITP192
+Object-Oriented Programming & Project [120 hours]
+ITP211
+Object-Oriented Analysis, Design & Project [120 hours]
+ITP212
+Java Enterprise Development & Project [120 hours]
+ITP213
+Enterprise Applications Development & Project [120 hours]
+321320
+ITP371
+ITP371
+Enterprise Software Development & Project [120 hours]
+ITP372
+Enterprise Networking & Project [120 hours]
+ITP312
+Smart Device Development & Project [120 hours]
+ITP314
+Games Development & Project [120 hours]
+ITP313
+Social Media Technologies & Project [120 hours]
+ITP315
+Business Analytics & Visualisation Project [120 hours]
+ITP331
+Enterprise Business Analytics Project [120 hours]
+ITP361
+Fintech Innovation Project [120 hours]
+ITP292
+Applications Security & Project [120 hours]
+ITP311
+Application Security & Project [120 hours]
+323322
+BM0034
+BM0034
+Business Statistics [60 hours]
+BM0035
+Principles of Economics [60 hours]
+BM0036
+Management Principles [60 hours]
+ITP381
+Business Informatics Project [120 hours]
+ITP391
+Operations Security & Case Study [120 hours]
+BM0030
+Business Communication 1 [60 hours]
+BM0031
+Principles of Accounting [60 hours]
+BM0032
+Essentials of Marketing [60 hours]
+ITP373
+Global Supply Chain Management & Project [120 hours]
+ITP374
+Systems & Network Security Project [120 hours]
+325324
+BM0501
+BM0501
+Business Communication 2 [60 hours]
+BM0505
+Market Research [60 hours]
+BM0515
+Entrepreneurship [60 hours]
+BM0518
+Business Environment [30 hours]
+BM0519
+Financial Management [60 hours]
+BM0522
+International Business [60 hours]
+BM0523
+Services Marketing Management [60 hours]
+BM0528
+Teaching Enterprise Project (Practicum) [12 weeks]
