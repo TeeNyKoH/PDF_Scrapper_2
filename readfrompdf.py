@@ -109,6 +109,17 @@ def convertsql():
     
     
     
+def convertsqlfromtext():
+    text = readfile()
+    sql = ""
+    skill = ""
+    
+    for i in text:
+        skill = i
+        sql = sql + 'INSERT INTO Skills (skill) VALUES (' + "'" + skill  + "');"
+    
+    writefile(sql)
+
     
     
     
@@ -117,7 +128,8 @@ def main():
     
     # readFromPDF()
     # convertsql()
-    convertsql()
+    convertsqlfromtext()
+    # clean()
     
     
     
